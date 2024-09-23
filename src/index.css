@@ -1,0 +1,45 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image:url("../public/daniel-bernard-8WBqsyBWN4U-unsplash.jpg");
+  background-color: #1a1a1a;
+  background-position:unset;
+  background-size:150ch;
+  background-repeat: no-repeat;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  background-color: aliceblue;
+  
+  cursor: pointer;
+  color: #2d2c2b;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+
+.align{
+  text-align: center;
+ 
+}
+
+p{
+  color:rgba(3, 3, 3, 0.978);
+  font-weight: bolder;
+}
